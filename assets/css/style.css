@@ -1,0 +1,77 @@
+
+div{
+    width: 100%;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    color: #707070;
+    padding-top: 50px;
+}
+
+.icons-section{
+    /* Layout Properties */
+    top: 1207px;
+    left: 0px;
+    width: auto;
+    height: 170px;
+    /* UI Properties */
+    background: #17A2B8 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: #ffffff;
+}
+
+i{
+    font-size: 53px;
+}
+
+.pago{
+    padding-top: 58px;
+    padding-bottom: 57px;
+    text-align: center;
+
+}
+
+footer{
+    background-color: #E83E8C;
+    height: 184px;
+    text-align: center;
+    padding-top: 45px;
+}
+
+.img-footer{
+    height: 100px;
+}
+
+nav{
+    height: 75px;
+}
+
+
+
+.nav-pink{
+    background-color: #E83E8C;
+    color: #ffffff;
+}
+
+
+
+.img-logo{
+    padding-left: 100px;
+    height: 53px;
+}
+
+.contenedor-tarjetas{
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.fila1{
+    margin-bottom: 60px;
+}
+
+
